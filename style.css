@@ -1,0 +1,36 @@
+body {
+  background: blanchedalmond;
+  color: maroon;
+}
+
+h1{
+  background:tan;
+  text-shadow: -2px 2px black;
+  border: 5px solid maroon;
+  border-radius: 5px;
+}
+
+h2{
+  text-shadow: -1px 1px black;
+}
+
+h3{
+  text-shadow: -1px 1px black;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+  float: right;
+  border: 5px solid maroon;
+}
+
+.Fish{
+  font-family: monospace;
+}
+.one{
+  text-align: right
+}
+.two{
+  text-align: right
+}
